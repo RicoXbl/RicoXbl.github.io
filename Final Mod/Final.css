@@ -1,14 +1,10 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(basemod2.png);
+    background: url(basemod.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
-}
-
-.xbox.white {
-    background: url(xbox-assets/base-white.svgz);
 }
 
 .xbox.disconnected {
@@ -185,7 +181,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stick.svgz);
+    background: url(stickmod.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
